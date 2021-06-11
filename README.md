@@ -1,2 +1,5 @@
 # DataSetsEstudos
-Repositório com os datasets que utilizei no estudo de alguns exercícios que estão no repositório de estudos
+
+Arquivo:
+
+__preco_casas.csv__ - Dataset para exercício: __2_Modelos_de_arvores_e_emsembles__
