@@ -8,4 +8,4 @@ __dataframe_anomalias_exercicio.csv__ - Dataset para exercício: __3_Detecção_
 
 __u.data, u.item__ - Arquivos para criação do Dataset para o exercício: __4_Sistema_de_recomendações__
 
-__cat.55.jpg, dog.2653.jpg, naut.jpg__ - Arquivos de imagem para usar no notebook __6 - Detecção de objetos__
+__cat.55.jpg, dog.2653.jpg, naut.jpg__ - Arquivos de imagem para usar no notebook __2 - Detecção de objetos__ (repositorio de visão computacional)
